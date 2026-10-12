@@ -20,7 +20,7 @@ logging.basicConfig(
 OWNER_ID = 993051853
 DEFAULT_ADMIN_IDS = [OWNER_ID]  # Овнер всегда админ по умолчанию
 
-BOT_TOKEN = "8737283848:AAH3jKoVI-W3cMXNCHmY8aXyI3TFX-HRgs4"
+BOT_TOKEN = "8737283848:AAFvmFY5FNFlzELQPJ0y3ajEzSn2wZQgRXE"
 IMAGE_PATH = "image.jpg" 
 SUPPORT_USERNAME = "otcelftosupport" 
 
